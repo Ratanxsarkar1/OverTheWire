@@ -86,7 +86,9 @@ Developers sometimes leave sensitive files inside web-accessible directories.
 
 Viewing the page source reveals:
 
-`<img src="files/pixel.png">``
+```
+<img src="files/pixel.png">
+```
 
 Navigating to:
 
