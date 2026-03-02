@@ -22,6 +22,7 @@ OverTheWire (https://overthewire.org/wargames/) provides hands-on cybersecurity 
 ```
 
 Bandit/
+Natas/
 README.md
 
 ```
