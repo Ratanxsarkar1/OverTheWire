@@ -23,6 +23,7 @@ By viewing the page source:
     
 
 The password for the next level is found inside an HTML comment.
+
 ![image](attachments/natas1.png)
 ## Commands Used
 
@@ -60,6 +61,7 @@ Use the browser URL bar:
 view-source:http://natas1.natas.labs.overthewire.org/
 
 The password is again inside an HTML comment.
+
 ![image](attachments/natas2.png)
 ## Commands Used
 
