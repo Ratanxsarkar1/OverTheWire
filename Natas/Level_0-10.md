@@ -95,7 +95,9 @@ Navigating to:
 http://natas2.natas.labs.overthewire.org/files/
 
 Reveals a file named `users.txt`.
+
 ![image](attachments/natas3.png)
+
 Inside `users.txt`:
 
 ```
@@ -130,7 +132,9 @@ http://natas3.natas.labs.overthewire.org/robots.txt
 Output:
 
 Disallow: /s3cr3t/
+
 ![image](attachments/natas4.png)
+
 Navigate to:
 
 /s3cr3t/user.txt
@@ -204,6 +208,7 @@ Change it to:
 `loggedin=1`
 
 Refresh the page. Access granted.
+
 ![image](attachments/cookies.png)
 
 ![image](attachments/natas5.png)
@@ -250,6 +255,7 @@ Secret found:
 FOEIUWGHFEEUHOFUOIU
 
 Submit this secret to obtain the password.
+
 ![image](attachments/secret.inc.png)
 
 ![image](attachments/natas6.png)
@@ -276,6 +282,7 @@ bmg8SvU1LizuWjx3y7xkNERkHxGre0GS
 User input is directly included in a file path.
 
 ![image](attachments/parameter.png)
+
 ![image](attachments/error.png)
 
 ## Walkthrough
@@ -295,6 +302,7 @@ Exploit directory traversal:
 index.php?page=/../../../../../../../../etc/natas_webpass/natas8
 
 Password revealed.
+
 ![image](attachments/natas7.png)
 
 ## Commands Used
@@ -327,7 +335,7 @@ Reverse the process:
 2. Reverse string
     
 3. Base64 decode
-    
+	    
 ![image](attachments/decode.png)
 
 ## Walkthrough
