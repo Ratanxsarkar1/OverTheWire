@@ -151,3 +151,6 @@ Natas is one of the best beginner-to-intermediate web exploitation paths availab
 - Secure development awareness
 
 ---
+## 🧑‍💻 Author
+
+Ghost -  Cyber-security Learner & CTF Player
