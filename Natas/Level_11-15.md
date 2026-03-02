@@ -1,6 +1,6 @@
 # Natas Walkthrough (Level 11–15)
 
-Professional Web Exploitation Documentation  
+Web Exploitation Documentation  
 Platform: OverTheWire – Natas
 
 # Natas Level 11
